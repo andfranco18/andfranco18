@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @andfranco18
+- 👀 I’m interested in Data Science, recomender systems and fraud prevention
+- 🌱 I’m currently learning deep learning
